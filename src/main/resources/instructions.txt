@@ -1,0 +1,5 @@
+# Run and generate report:
+    * mvn clean test
+    * mvn allure:report
+    * mvn allure:serve
+
